@@ -1,0 +1,14 @@
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\bin\Debug\net9.0\Map_Test.exe
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\bin\Debug\net9.0\Map_Test.deps.json
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\bin\Debug\net9.0\Map_Test.runtimeconfig.json
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\bin\Debug\net9.0\Map_Test.dll
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\bin\Debug\net9.0\Map_Test.pdb
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\Map_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\Map_Test.AssemblyInfoInputs.cache
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\Map_Test.AssemblyInfo.cs
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\Map_Test.csproj.CoreCompileInputs.cache
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\Map_Test.dll
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\refint\Map_Test.dll
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\Map_Test.pdb
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\Map_Test.genruntimeconfig.cache
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\Map_Test\obj\Debug\net9.0\ref\Map_Test.dll

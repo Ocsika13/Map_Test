@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGHs/qpGy+c=",
+  "success": true,
+  "projectFilePath": "C:\\C# ChatGPT Tasks\\Kalydy_Oktatás\\Map_Test\\Map_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ocsovszkit\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.0-preview.5.24306.7\\microsoft.dotnet.ilcompiler.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "C:\\Users\\ocsovszkit\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0-preview.5.24306.7\\microsoft.net.illink.tasks.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "C:\\Users\\ocsovszkit\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.0-preview.5.24306.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.0-preview.5.24306.7.nupkg.sha512"
+  ],
+  "logs": []
+}
